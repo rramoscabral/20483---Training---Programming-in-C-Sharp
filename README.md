@@ -1,19 +1,39 @@
-# 20483 - Training - Programming in C
+## 20483 - Training - Programming in C
 20483 Training for Microsoft Official Course (MOC) 20483 Programming in C
 
 <br>
 
+### About the course
 This training course teaches developers the programming skills that are required for developers to create Windows applications using the Visual C# language.  
 During their five days in the classroom students review the basics of Visual C# program structure, language syntax, and implementation details, and then consolidate their knowledge throughout the week as they build an application that incorporates several features of the .NET Framework 4.7.
 
 <br>
 
-## About the course
-AZ-400 has seven areas of study .
+### Audience profile
+ * This course is intended for experienced developers who already have programming experience in C, C++, JavaScript, Objective-C, Microsoft Visual Basic, or Java and understand the concepts of object-oriented programming.
+* This course is not designed for students who are new to programming; it is targeted at professional developers with at least one month of experience programming in an object-oriented environment.
+At course completion
 
-The courses area as follows:
- 
-### Modules details
+<br>
+
+### After completing this course, students will be able to:
+* Describe the core syntax and features of Visual C#.
+* Create methods, handle exceptions, and describe the monitoring requirements of large-scale applications.
+* Implement the basic structure and essential elements of a typical desktop application.
+* Create classes, define and implement interfaces, and create and use generic collections.
+* Use inheritance to create a class hierarchy and to extend a .NET Framework class.
+* Read and write data by using file input/output and streams, and serialize and deserialize data in different formats.
+* Create and use an entity data model for accessing a database and use LINQ to query data.
+* Access and query remote data by using the types in the System.Net namespace and WCF Data Services.
+* Build a graphical user interface by using XAML.
+* Improve the throughput and response time of applications by using tasks and asynchronous operations.
+* Integrate unmanaged libraries and dynamic components into a Visual C# application.
+* Examine the metadata of types by using reflection, create and use custom attributes, generate code at runtime, and manage assembly versions.
+* Encrypt and decrypt data by using symmetric and asymmetric encryption.
+
+<br>
+
+#### Modules details
  
  
  Module | Details |
@@ -33,7 +53,115 @@ The courses area as follows:
 | Module 13: Encrypting and Decrypting Data | In this module, you will learn how to implement symmetric and asymmetric encryption and how to use hashes to generate mathematical representations of your data. You will also learn how to create and manage X509 certificates and how to use them in the asymmetric encryption process. |
 
 
-
+#### Course outline:
+ 
+ 
+<table>
+    <tbody>
+        <tr>
+            <th align="center">Module</th>
+            <th align="center">Lessons</th>
+            <th align="center">After completing this module, students will be able to</th>
+        </tr>
+        <tr>
+            <td>Module 1: </td>
+            <td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Module 2: </td>
+            <td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Module 3: </td>
+            <td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Module 4: </td>
+            <td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Module 5: </td>
+            <td>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li></li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table> 
  
 <br>
  
