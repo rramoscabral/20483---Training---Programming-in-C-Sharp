@@ -1,5 +1,5 @@
 ## 20483 - Training - Programming in C
-20483 Training for Microsoft Official Course (MOC) 20483 Programming in C
+Training for Microsoft Official Course (MOC) 20483 Programming in C
 
 <br>
 
