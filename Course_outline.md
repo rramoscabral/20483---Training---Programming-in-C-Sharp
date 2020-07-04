@@ -18,7 +18,7 @@
             <td>
                 <ul>
                     <li>Describe the architecture of .NET Framework applications and the features that Visual Studio 2017 and Visual C# provide.</li>
-                    <li>Use basic Visual C# data types, operators, and expressions./li>
+                    <li>Use basic Visual C# data types, operators, and expressions.</li>
                     <li>Use standard Visual C# constructs</li>
                 </ul>
             </td>
