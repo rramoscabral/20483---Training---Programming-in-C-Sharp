@@ -88,9 +88,9 @@ More specifically, students should have hands-on experience using C# that demons
 
 ### Videos
 ----------
- * [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners?l=Lvld4EQIC_2706218949))
- * [Introduction to C# 101](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/)
-
+ * [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners?l=Lvld4EQIC_2706218949)
+ * [Introduction to C# 101](https://channel9.msdn.com/Series/CSharp-101/?WT.mc_id=Educationalcsharp-c9-scottha)
+    * [Introduction to C# 101 documentation](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/)
 <br>
 
 #### Labs
