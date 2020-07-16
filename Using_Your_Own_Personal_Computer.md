@@ -31,7 +31,7 @@ Prepare your own personal computer for the course
    1. [WcfDataServices.exe](https://github.com/MicrosoftLearning/20483-Programming-in-C-Sharp/blob/master/Allfiles/Assets/WcfDataServices.exe?raw=true)
    1. [WCF.reg](https://raw.githubusercontent.com/MicrosoftLearning/20483-Programming-in-C-Sharp/master/Allfiles/Assets/WCF.reg)   
 1. Install SQL Server 2017 Express Edition 
-   1. [Select Basic and complete the installation](https://www.microsoft.com/en-us/download/details.aspx?id=5599)
+   1. [Select Basic and complete the installation](https://www.microsoft.com/en-us/download/details.aspx?id=55994)
       * [SQL Server last Version](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
    1. [Download and install SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
 
