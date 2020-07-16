@@ -23,8 +23,7 @@ Prepare your own personal computer for the course
         * Windows 10 SDK (10.0.14393.0)
         * Windows 10 SDK (10.0.15063.0) for UWP: C#, VB, JS
         * Windows 10 SDK (10.0.16299.0) for UWP: C#, VB, JS
-        * Windows 10 SDK (10.0.17763.0)
-        
+        * Windows 10 SDK (10.0.17763.0)  
 1. Reboot/restart Windows OS
 1. Install Odata Extension and Assets
    * **Warning: Follow the installation sequence, do not skip to the next step!**
