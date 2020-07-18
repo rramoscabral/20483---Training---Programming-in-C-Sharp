@@ -1,7 +1,8 @@
 ## Using your own personal computer
 
-Prepare your own personal computer for the course
 
+Prepare your own personal computer for the course
+-----------
 1. [Install Visual Studio 2017 Community Edition](https://visualstudio.microsoft.com/vs/older-downloads/)
    * [Require **Free** Dev Essentials program account](https://visualstudio.microsoft.com/dev-essentials/)
    * Select the following Workloads:
@@ -34,6 +35,12 @@ Prepare your own personal computer for the course
    1. [Select Basic and complete the installation](https://www.microsoft.com/en-us/download/details.aspx?id=55994)
       * [SQL Server last Version](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
    1. [Download and install SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
+
+<br>
+
+Oficial Setup Guide
+-----------
+[Classroom Setup Guide](https://github.com/MicrosoftLearning/20483-Programming-in-C-Sharp/blob/master/20483C_setupguide.pdf)
 
 <br>
 
