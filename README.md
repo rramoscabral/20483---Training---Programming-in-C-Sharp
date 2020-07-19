@@ -68,13 +68,20 @@ More specifically, students should have hands-on experience using C# that demons
 
 ### Resources
 ----------
+ * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+ * [C# reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
+ * [.NET documentation](https://docs.microsoft.com/en-us/dotnet/)
+ * [.NET Framework versions](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies)
+ * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/)
+ * [.NET Microsoft Team Blog](https://devblogs.microsoft.com/dotnet/)
+ * [How to Add class diagrams to projects](https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/how-to-add-class-diagrams-to-projects)
  * [Overview Visual Studio 2019](https://docs.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2019)
- * [Overview Visual Studio 2017](https://docs.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2017)
+   * [What's new in Visual Studio 2019](https://docs.microsoft.com/en-us/visualstudio/ide/whats-new-visual-studio-2019?)
+* [Overview Visual Studio 2017](https://docs.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2017)
+   * [What's new for design in Visual Studio 2017]https://docs.microsoft.com/en-us/visualstudio/modeling/what-s-new-for-design-in-visual-studio?view=vs-2017)
  * [Overview Visual Studio Code](https://code.visualstudio.com/docs)
    * [User Interface](https://code.visualstudio.com/docs/getstarted/userinterface)
- 
-
- 
+   
 <br>
 
 
@@ -83,6 +90,7 @@ More specifically, students should have hands-on experience using C# that demons
  * [C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development, Mark J. Price, Oct 2019](https://www.packtpub.com/free-ebooks/reading-list/development/9781788478120)
  * [C# Programing Yellow Book, Rob Miles](https://www.robmiles.com/c-yellow-book)
  * [Fundamentals of Computer Programming with C#, Svetlin Nakov and Team, 2013](https://introprogramming.info/english-intro-csharp-book/)
+
 <br>
 
 
